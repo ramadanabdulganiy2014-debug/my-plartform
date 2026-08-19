@@ -1,0 +1,58 @@
+header h1 {
+    color: rgb(56, 5, 241);
+    margin: 25;
+    padding-bottom: auto;
+    text-align: center;
+}
+ body {
+    background-color: rgb(20, 236, 74);
+    padding: 25px;
+    margin: auto;
+ }
+
+p {
+    color: rgb(11, 241, 241);
+    padding: auto;
+    margin: auto;
+}
+h1 {
+    color:rgb(12, 247, 247);
+    padding: auto;
+    margin: 29px;
+}
+p {
+    color:rgb(68, 6, 6);
+    padding: 37px;
+    margin:auto; 
+}
+h2{
+   color:rgb(247, 106, 5);
+   padding-bottom:auto;
+   margin:20px; 
+}
+p {
+    color:rgb(12, 245, 245);
+    padding: auto;
+    margin: 42px;
+}
+h3 {
+    color: rgb(202, 66, 17);
+    padding: 50px;
+    margin: auto;
+}
+p {
+    color: rgb(79, 44, 112);
+    padding: auto;
+    margin:auto
+}
+li {
+    color: rgb(18, 233, 161);
+}
+td {
+    color:rgb(117, 180, 182);
+    padding: 10ox;
+    margin: 22px;
+}
+p {
+    color:rgb(78, 69, 69, 0.911)
+}
